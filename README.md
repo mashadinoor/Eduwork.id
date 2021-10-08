@@ -5,7 +5,7 @@ Sejak tanggal **8 Oktober 2021** saya mengikuti  kelas Web Development (Free) ya
 
 
 ## Table of Content
-1. [Tugas Pertama](https://github.com/mashadinoor/Eduwork.id/blob/readme-edit/README.md#tugas-pertama)
+1. [Tugas Pertama](https://github.com/mashadinoor/Eduwork.id#tugas-pertama)
 
 Semoga langkah yang saya ambil ini bisa membawa saya untuk bisa lebih baik sebagai web developer. Pun juga bisa bermanfaat, khususnya bagi saya sendiri, dan umumnya bagi para pengunjung.
 
