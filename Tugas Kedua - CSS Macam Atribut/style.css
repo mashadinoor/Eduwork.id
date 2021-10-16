@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(238, 238, 238);
+}
+
+.form-center {
+  background-color: white;
+  border-radius: 2%;
+}
+
+.fa-facebook-square {
+  color: #4267b2;
+}
+
+.mb-3 input {
+  background-color: rgb(228, 228, 228);
+}
+
+.btn-primary {
+  background-color: rgb(87, 126, 255);
+  border: 1px solid rgb(87, 126, 255);
+}
+
+.btn-outline-light {
+  background-color: rgb(228, 228, 228);
+  border: 1px solid rgb(228, 228, 228);
+  color: black;
+}
+
+.btn-outline-light:hover {
+  background-color: rgb(191, 191, 191);
+  border: 1px solid rgb(191, 191, 191);
+}
